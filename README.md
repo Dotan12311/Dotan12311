@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dotan12311
-- 👀 I’m interested in ... Discord Bots
+- 👀 I’m interested in ... <!--- Discord Bots --->
 - 🌱 I’m currently learning ... express, node.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
